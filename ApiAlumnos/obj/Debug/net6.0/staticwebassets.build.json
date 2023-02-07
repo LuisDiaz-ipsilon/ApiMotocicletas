@@ -1,8 +1,8 @@
 {
   "Version": 1,
-  "Hash": "dSWjpNRoFn7dktfTKhicmFUduSWYUVy31L2OsPOmoo8=",
-  "Source": "ApiAlumnos",
-  "BasePath": "_content/ApiAlumnos",
+  "Hash": "EOLo4UNB1Af814uB+6c08fQNyc7AW2ziLtiGYAfXLpY=",
+  "Source": "ApiFacturador",
+  "BasePath": "_content/ApiFacturador",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
