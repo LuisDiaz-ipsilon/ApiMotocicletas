@@ -16,5 +16,11 @@ namespace ApiFacturador
         }
 
         public DbSet<Factura> Faturas { get; set; }
+
+        public DbSet<Motocicleta> motocicleta { get; set; }
+
+        public DbSet<Motor> Motor { get; set; }
+
+        public DbSet<Llanta> Llanta { get; set; }
     }
 }
