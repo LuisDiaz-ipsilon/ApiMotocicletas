@@ -12,7 +12,7 @@ namespace ApiFacturador.Controllers
         {
             return new List<Motocicleta>()
             {
-                new Motocicleta() {id = 1, modelo = "Indian", piel = true}
+                new Motocicleta() {id = 1, modelo = "Indian", piel = true, idMotor = 1, idTipoLlantas = 1}
             };
         }
     }
