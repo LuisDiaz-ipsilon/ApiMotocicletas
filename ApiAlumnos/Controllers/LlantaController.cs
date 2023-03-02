@@ -7,7 +7,7 @@ namespace ApiFacturador.Controllers
     {
 
         [ApiController]
-        [Route("api/llantas")]
+        [Route("api/facturas")]
 
         public class LlantasController: ControllerBase
         {
