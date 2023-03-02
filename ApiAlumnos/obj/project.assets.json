@@ -3441,9 +3441,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\ApiFacturador.csproj",
-      "projectName": "ApiFacturador",
-      "projectPath": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\ApiFacturador.csproj",
+      "projectUniqueName": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\ApiMotocicletas.csproj",
+      "projectName": "ApiMotocicletas",
+      "projectPath": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\ApiMotocicletas.csproj",
       "packagesPath": "C:\\Users\\Win\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\obj\\",
       "projectStyle": "PackageReference",

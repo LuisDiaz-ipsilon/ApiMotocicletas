@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "1ghEJBgAH5E16KxMoQNwhnvko0rSX5i0yDPVwx6Txa1Y5oBh1b5PGfnnK2G+fHjvtR8ZKSK2XlVkuSeaxixb1w==",
+  "dgSpecHash": "+T2Cvr25emJeUGDazfIWnKXcHocfwuYkG3gBYdHJseLuV+5vfGWNA9OT/ROo3hWc0lENeAQy1nynvKftRN2rog==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\ApiFacturador.csproj",
+  "projectFilePath": "C:\\Users\\Win\\source\\repos\\ApiAlumnos\\ApiAlumnos\\ApiMotocicletas.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Win\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\Win\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
